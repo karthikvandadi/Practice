@@ -1,0 +1,11 @@
+Core Java
+Advanced Java - Servlets, JSP and JDBC.
+Spring Framework- MVC,ORM, Transaction Management, AOP, Batch, SpringBoot
+Hibernate.
+
+XML, Eclipse
+
+UI Technology 
+a. HTML
+b. CSS
+c. JavaScript
